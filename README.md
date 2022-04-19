@@ -1,2 +1,2 @@
-# contador-basico-JS
- Contador Básico no aprendizado de JS
+# Contador Básico JS
+ Contador Básico criado no processo de aprendizado de Javascript.
